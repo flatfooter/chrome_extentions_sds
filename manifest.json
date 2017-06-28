@@ -1,0 +1,13 @@
+
+
+{
+  "manifest_version": 2,
+  "name": "lunchMenu",
+  "description": "eat",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "bob.png",
+    "default_popup": "popup.html"
+  }
+}
